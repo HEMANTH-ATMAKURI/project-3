@@ -21,4 +21,4 @@ In conclusion, this project showcases a thoughtful integration of cutting-edge t
 # OUTPUT OF THE TASK
 ![Screenshot 2025-01-09 215535](https://github.com/user-attachments/assets/b2172d26-f728-4984-ba3b-e4969ff7ef0a)
 ![Image](https://github.com/user-attachments/assets/2019ee24-3e40-4ed3-b588-967b4f5eccff)
-![Image](https://github.com/user-attachments/assets/e3b076e5-f070-4224-99e6-f26fd634d2b1)
+
